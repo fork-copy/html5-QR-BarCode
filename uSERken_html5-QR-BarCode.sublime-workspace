@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"function"
+			],
+			[
+				"file_get",
+				"file_get_contents()"
+			],
+			[
+				"fi",
+				"file_exists"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"var_",
+				"var_dump()"
+			],
+			[
+				"file",
+				"file_get_contents"
+			],
+			[
+				"str_",
+				"str_getcsv()"
+			],
+			[
+				"parse",
+				"parse_str()"
+			],
+			[
+				"get_de",
+				"get_defined_vars()"
+			],
+			[
+				"dte",
+				"date_sun_info"
+			],
+			[
+				"date",
+				"date_sun_info"
+			],
+			[
+				"put",
+				"putContents"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"subs",
+				"substr()"
+			],
+			[
+				"html",
+				"html_entity_decode()"
+			],
+			[
+				"is_arr",
+				"is_array()"
+			],
+			[
+				"is_bo",
+				"is_bool()"
+			],
+			[
+				"mb_ereg",
+				"mb_ereg_match()"
+			],
+			[
+				"var_dum",
+				"var_dump()"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"mb_e",
+				"mb_ereg()"
+			],
+			[
+				"tim",
+				"timezone_id"
+			],
+			[
+				"json",
+				"json_encode()"
+			],
+			[
+				"isNUll",
+				"is_null()"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"timezone_v",
+				"timezone_version_get()"
+			],
+			[
+				"is_b",
+				"is_bool()"
+			],
+			[
+				"els",
+				"elseif\telseif …"
+			],
+			[
+				"is",
+				"is_numeric"
+			],
+			[
+				"var",
+				"var_array"
+			],
+			[
+				"array_shit",
+				"array_shift()"
+			],
+			[
+				"array",
+				"array_shift"
+			],
+			[
+				"is_num",
+				"is_numeric()"
+			],
+			[
+				"extra",
+				"extract()"
+			],
+			[
+				"strlen",
+				"strlen()"
+			],
+			[
+				"preg_",
+				"preg_replace()"
+			],
+			[
+				"p",
+				"placeholder"
+			],
+			[
+				"base4_d",
+				"base64_decode()"
+			],
+			[
+				"pa",
+				"pathinfo"
+			],
+			[
+				"impl",
+				"implode()"
+			],
+			[
+				"preg_repl",
+				"preg_replace()"
+			],
+			[
+				"path",
+				"pathinfo()"
+			],
+			[
+				"var_d",
+				"var_dump()"
+			],
+			[
+				"open",
+				"openlog()"
+			],
+			[
+				"func_get",
+				"func_get_args()"
+			],
+			[
+				"extrac",
+				"extract()"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"extr",
+				"extract()"
+			],
+			[
+				"que",
+				"question_mark"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"conte",
+				"continue"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"get_",
+				"get_defined_vars"
+			],
+			[
+				"swtic",
+				"switch\tswitch …"
+			],
+			[
+				"return",
+				"return_value"
+			],
+			[
+				"re",
+				"return_value"
+			],
+			[
+				"putC",
+				"file_put_contents()"
+			],
+			[
+				"http_build",
+				"http_build_query()"
+			],
+			[
+				"in_a",
+				"in_array()"
+			],
+			[
+				"conetn",
+				"content_md5"
+			],
+			[
+				"is_",
+				"is_int"
+			],
+			[
+				"se",
+				"set_property"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"preg_re",
+				"preg_replace()"
+			],
+			[
+				"eas",
+				"easter_date()"
+			],
+			[
+				"pi",
+				"pieces"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"MarkdownLivePreview: Open Preview"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/J/git/github.com/fork-copy/html5-QR-BarCode/master"
+	],
+	"file_history":
+	[
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Directory.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Directory.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Arrays.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/ZipV2.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/.editorconfig",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Array.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/cal/calendar.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/cal/days_in_month.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/MB.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Arrays.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Variable.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Arr.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Str.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/dir/scandir.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/curl.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/url/index.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/str/index.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/File.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/FuncHand.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Info.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Date.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/URL.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Mbstring.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/README.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/debug/File.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/str/nl2br.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/str/csv.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/file/csv.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Filesystem.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/_Abstract.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Strings.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/bin/php/php-S - 89.bat",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Err.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/url/get_headers.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/URL.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/date/sun_info.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/date/index.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/ErrorHandling.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Error.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/file/index.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/DateTime.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/date/datetime.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/mb/index.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Ext.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/X/Redis.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/PDObj.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Net.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/cURL.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Lang/Operator/Logical.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Lang/ControlStructure/ControlStructures.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/lang/operator/logical.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/lang/control/for.php",
+		"/G/Storage/Users/Windows11/Chrome SxS/2/Bookmarks",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Lang/ControlStructure/Introduction.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Lang/ControlStructure/Inc.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Network.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/composer.json",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/PDO.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Info.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/PDO/MySQL.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/array/shift.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Math.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Math.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/CliServer.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/bin/git.txt",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Control.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/net/index.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/cli/ffmpeg.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Appendices/Indexes/FunctionAndMethodListing.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/mb/ord.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/date/date.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Ds.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Zip.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/.git/config",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/GetText.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Misc.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Stream.php",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/README.md",
+		"/J/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/.gitignore",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/CAL.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Str.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/URL.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Strings.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/_Abstract.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/cURL.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Variable.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/curl.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/ZipV2.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Stream.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Zip.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/.editorconfig",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Zip.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/X/Redis.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/X/FANN.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/X/GeoIP.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/X/IP2Location.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/BC.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/File.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/PDObj.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/URL.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/MB.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/mb/ord.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/mb/index.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/mb/strCount.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/cal/calendar.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/CAL.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Mbstring.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/test/hooks.txt",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/docs/api/Arrays.md",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Arr.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Date.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/date/sun_info.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/example/cal/days_in_month.php",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/composer.json",
+		"/K/Server/Domain/urlnk/com/@/php-app/vendor/wuding/php-ext/src/Ext.php",
+		"/K/vue/1.html",
+		"/K/vue/php-S.bat"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 374.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 127.333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "uSERken_html5-QR-BarCode.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
